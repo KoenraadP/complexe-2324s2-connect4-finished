@@ -183,6 +183,7 @@ namespace ConnectFour
 
         // checkwinner v2
         // vereist wel een andere manier om te gebruiken met parameters
+        // bepaalde stukjes van deze versie kloppen ook nog niet met de rest van de huidige code
 
         /*private void CheckWinner(int row, int col)
         {
